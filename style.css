@@ -16,6 +16,7 @@ h1{
     padding: 10px;
     border: solid rgb(204, 83, 83);
     background-color:rgb(236, 212, 177);
+    border-radius: 12px;
 }
 
 .row{
